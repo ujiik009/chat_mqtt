@@ -1,0 +1,19 @@
+{
+  "name": "chat_mqtt",
+  "version": "1.0.0",
+  "description": "\"# chat_mqtt\"",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ujiik009/chat_mqtt.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ujiik009/chat_mqtt/issues"
+  },
+  "homepage": "https://github.com/ujiik009/chat_mqtt#readme"
+}
